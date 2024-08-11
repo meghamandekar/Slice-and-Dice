@@ -1,8 +1,40 @@
-# React + Vite
+# Slice and Dice
+- Slice and Dice is a web application designed to efficiently split tasks or items into smaller, manageable parts. Built using modern web technologies, it offers an interactive and user-friendly experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+- Task Splitting: Easily divide tasks or items into smaller parts for better management.
+- Interactive UI: Designed with a responsive and intuitive user interface using React.
+- Modern Tech Stack: Utilizes Vite for fast development and build processes.
+- Customizable: Fully customizable with HTML, CSS, and JavaScript.
 
-Currently, two official plugins are available:
+# Tech Stack
+React: For building the user interface.
+HTML5: For structuring web content.
+CSS3: For styling and layout.
+JavaScript: For interactive elements.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Build Tool:
+Vite: For fast and efficient development and build processes.
+
+# Clone the Repository:
+- Copy code
+git clone https://github.com/meghamandekar/Slice-and-Dice.git
+or download the ZIP file and extract it.
+
+# Navigate to Project Directory:
+- cd Slice-and-Dice
+
+# Install Dependencies:
+- npm install
+
+# Development
+- npm run dev
+
+# Build
+- npm run build
+
+# Preview
+- npm run preview
+
+# Contributing
+- Feel free to submit issues or pull requests to contribute to the project.
